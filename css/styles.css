@@ -1,0 +1,23 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background-color: beige;
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 60px;
+  margin-bottom: 50px;
+}
+
+.container{
+  font-size: 22px;
+  text-align: center;
+  margin: 20px;
+  list-style-type: none;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 22px;
+}
